@@ -1,0 +1,7 @@
+{
+  "Navigation": {
+    "index": "Home",
+    "about": "About",
+    "switchLocale": "Switch to {locale, select, zh {中文} en {English} other {}}"
+  }
+}

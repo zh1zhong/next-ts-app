@@ -1,0 +1,7 @@
+{
+  "Navigation": {
+    "index": "主页",
+    "about": "关于",
+    "switchLocale": "切换至 {locale, select, zh {中文} en {English} other {}}"
+  }
+}
